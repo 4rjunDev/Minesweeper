@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=
+comment1.target=Cell()
+comment10.params=
+comment10.target=boolean\ getQuestion()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=r\ c
+comment2.target=Cell(int,\ int)
+comment3.params=v
+comment3.target=void\ setValue(int)
+comment4.params=f
+comment4.target=void\ setFlag(boolean)
+comment5.params=f
+comment5.target=void\ setQuestion(boolean)
+comment6.params=
+comment6.target=int\ getValue()
+comment7.params=
+comment7.target=int\ getRow()
+comment8.params=
+comment8.target=int\ getColumn()
+comment9.params=
+comment9.target=boolean\ getFlag()
+numComments=12

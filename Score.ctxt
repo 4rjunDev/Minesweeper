@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=score\ owner
+comment1.target=Score(int,\ java.awt.Frame)
+comment2.params=newScore\ name
+comment2.target=void\ addScore(int,\ java.lang.String)
+comment3.params=scores
+comment3.target=void\ saveScores(java.lang.String[])
+comment4.params=
+comment4.target=void\ loadScores()
+numComments=5
